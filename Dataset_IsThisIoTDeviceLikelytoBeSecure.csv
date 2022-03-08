@@ -815,11 +815,11 @@ CVE-2020-12280,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",TCPIP
 CVE-2020-12281,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",TCPIP,GATT,RF,MTP,,,,,Local,Yes,No,None,"WiFi, USB, ISM, Bluetooth",,,,,,,Bluetooth,ISM,,,,,,,USB,,,,,,,,,,Fiber,WiFi,,,,,6.5,2,3,2,2,2
 CVE-2020-12282,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",TCPIP,GATT,RF,MTP,,,,,Local,Yes,No,None,"WiFi, USB, ISM, Bluetooth",,,,,,,Bluetooth,ISM,,,,,,,USB,,,,,,,,,,Fiber,WiFi,,,,,8.8,3,4,4,3,3
 CVE-2020-12447,Onkyo,Radio Receiver,Smart Home,400,2,"TCPIP, GATT, MTP",TCPIP,GATT,,MTP,,,,,Local,No,No,None,"WiFi, Ethernet, Bluetooth, USB",,,,,,,Bluetooth,,,,,,,,USB,,,,,,,,,,Fiber,WiFi,Ethernet,,,,7.5,2,4,3,2,3
-CVE-2020-12500,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
-CVE-2020-12501,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
-CVE-2020-12502,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,8.8,3,4,4,3,3
-CVE-2020-12503,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,7.2,2,3,2,2,3
-CVE-2020-12504,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
+CVE-2020-12500,RocketLinxÂ ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
+CVE-2020-12501,RocketLinxÂ ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
+CVE-2020-12502,RocketLinxÂ ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,8.8,3,4,4,3,3
+CVE-2020-12503,RocketLinxÂ ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,7.2,2,3,2,2,3
+CVE-2020-12504,RocketLinxÂ ,Ethernet Switch,Telecomm,1055,1,TCPIP,TCPIP,,,,,,,,Local,No,No,None,Ethernet,,,,,,,,,,,,,,,,,,,,,,,,,Fiber,,Ethernet,,,,9.8,3,4,4,4,3
 CVE-2020-12774,D-Link,WiFi Router,Telecomm,100,7,"TCPIP, DSP",TCPIP,,,,DSP,,,,Local,No,No,Symmetric,"WiFi, Ethernet, DSL,Phone, Console",,DSL,,,,,,,,,,,,,,,,,,,,,,Console,Fiber,WiFi,Ethernet,,,,6.7,2,3,2,2,2
 CVE-2020-12837,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",TCPIP,GATT,RF,MTP,,,,,Local,Yes,No,None,"WiFi, USB, ISM, Bluetooth",,,,,,,Bluetooth,ISM,,,,,,,USB,,,,,,,,,,Fiber,WiFi,,,,,7.5,2,4,3,2,3
 CVE-2020-12838,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",TCPIP,GATT,RF,MTP,,,,,Local,Yes,No,None,"WiFi, USB, ISM, Bluetooth",,,,,,,Bluetooth,ISM,,,,,,,USB,,,,,,,,,,Fiber,WiFi,,,,,9.8,3,4,4,4,3
