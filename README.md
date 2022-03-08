@@ -48,4 +48,7 @@ The records added from the NVD range from the year 2013 to the year 2021. And, t
 |High     |183        |16%|
 |Critical |656        |57%|
 
-The dataset can be found in the following [link](https://github.com/criveraalvarez/IsThisIoTDeviceLikelyToBeSecure-/Dataset_isthisiotlikelytobesecure.csv).
+The dataset can be found in the following [link](https://github.com/criveraalvarez/IsThisIoTDeviceLikelyToBeSecure-/Dataset_isthisiotlikelytobesecure.csv).  
+  
+**Cite our data**  
+Rivera A, Carlos A., Arash Shaghaghi, David D. Nguyen, and Salil S. Kanhere. "Is This IoT Device Likely to Be Secure? Risk Score Prediction for IoT Devices Using Gradient Boosting Machines." In International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services, pp. 115-127. Springer, Cham, 2021.  
